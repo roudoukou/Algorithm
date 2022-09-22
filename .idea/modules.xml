@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDU/HDU.iml" filepath="$PROJECT_DIR$/HDU/HDU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HNCPC-17/HNCPC-17.iml" filepath="$PROJECT_DIR$/HNCPC-17/HNCPC-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/二叉树/二叉树.iml" filepath="$PROJECT_DIR$/二叉树/二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动态规划/动态规划.iml" filepath="$PROJECT_DIR$/动态规划/动态规划.iml" />
+      <module fileurl="file://$PROJECT_DIR$/图/图.iml" filepath="$PROJECT_DIR$/图/图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/洛谷/洛谷.iml" filepath="$PROJECT_DIR$/洛谷/洛谷.iml" />
+      <module fileurl="file://$PROJECT_DIR$/牛客/牛客.iml" filepath="$PROJECT_DIR$/牛客/牛客.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法.iml" filepath="$PROJECT_DIR$/算法.iml" />
+    </modules>
+  </component>
+</project>
